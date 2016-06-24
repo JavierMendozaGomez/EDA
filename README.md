@@ -1,6 +1,5 @@
 # EDA
-Ejercicios de la asignatura estructura de algoritmos resueltos
-Contenidos de la asignatura
+Ejercicios resueltos de la asignatura estructura de algoritmos
 ##Contenidos aprendidos de la asignatura:
 
 1. Análisis de la eficiencia de los algoritmos
