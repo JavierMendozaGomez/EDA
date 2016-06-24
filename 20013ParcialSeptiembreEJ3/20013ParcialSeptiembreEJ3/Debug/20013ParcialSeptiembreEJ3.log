@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\universidad\progamacion\eda2\20013parcialseptiembreej3\20013parcialseptiembreej3\source.cpp(8): warning C4101: 'e': variable local sin referencia
+d:\universidad\progamacion\eda2\20013parcialseptiembreej3\20013parcialseptiembreej3\source.cpp(26): warning C4715: 'resuelve': no todas las rutas de acceso de control devuelven un valor
+  20013ParcialSeptiembreEJ3.vcxproj -> D:\Universidad\Progamacion\EDA2\20013ParcialSeptiembreEJ3\Debug\20013ParcialSeptiembreEJ3.exe
+  20013ParcialSeptiembreEJ3.vcxproj -> D:\Universidad\Progamacion\EDA2\20013ParcialSeptiembreEJ3\Debug\20013ParcialSeptiembreEJ3.pdb (Partial PDB)
